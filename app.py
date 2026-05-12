@@ -1,3 +1,5 @@
 import streamlit as st
-st.title('prima app')
+st.title('Prima app Streamlit')
 
+if st.balloons('click'):
+    st.balloons()
